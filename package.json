@@ -14,7 +14,7 @@
     "@nuxtjs/axios": "^5.10.3",
     "@vue/composition-api": "^0.5.0",
     "nuxt": "^2.12.2",
-    "swiper": "^5.3.8"
+    "swiper": "^6.5.1"
   },
   "devDependencies": {
     "postcss-custom-properties": "^9.1.1"
